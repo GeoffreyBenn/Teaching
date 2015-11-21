@@ -1,0 +1,115 @@
+major	Name
+EASE	Aerospace Sci & Engineer
+LAAA	African Amer&African Studies
+AAEE	Agric & Environ Education
+LAMS	American Studies
+AABI	Animal Biology
+AANS	Animal Science
+AANM	Animal Science & Management
+LANT	Anthropology
+LAMA	Applied Mathematics
+LAPP	Applied Physics
+LAHI	Art History
+LASD	Art Studio
+LASA	Asian American Studies (Hum)
+AATM	Atmospheric Science
+BBMB	Biochem & Molecular Biology
+EBCL	Biochemical Engineering
+BBIS	Biological Sciences
+EBSE	Biological Systems Engineering
+EBIM	Biomedical Engineering
+ABIT	Biotechnology
+BCBI	Cell Biology
+ECML	Chemical Engineering
+LCPH	Chemical Physics
+LCHE	Chemistry
+LCHI	Chicana/O Studies
+LCHN	Chinese
+LCDM	Cinema and Digital Media
+ECIV	Civil Engineering
+LCLC	Classical Civilization
+ACNU	Clinical Nutrition
+LCGS	Cognitive Science
+LCMN	Communication
+ACRD	Community and Regional Develop
+LCOM	Comparative Literature
+ECOM	Computer Engineering
+LCSI	Computer Science
+ECSE	Computer Science & Engineering
+LDES	Design
+LEAS	East Asian Studies
+AEMR	Ecological Mgmt & Restoration
+LECN	Economics
+	Electrical & Comp Engineering
+EEEL	Electrical Engineering
+LENL	English
+AENT	Entomology
+AEHF	Environ Hort & Urban Forestry
+AEPP	Environ Policy Analy & Plan
+AESM	Environ Sci & Management
+AETX	Environmental Toxicology
+BEEB	"Evolution, Ecol & Biodiversity"
+AFPS	Fiber and Polymer Science
+AFSC	Food Science
+LFRE	French
+LGSW	"Gender, Sexuality & Women Stdy"
+BGGN	Genetics and Genomics
+LGEL	Geology
+LGER	German
+AGDB	Global Disease Biology
+LHIS	History
+AHDE	Human Development
+AHYD	Hydrology
+BIND	Individual
+LIND	Individual
+AIAD	Intern'l Agri Devlopmt
+LIRE	International Relations
+LITA	Italian
+LJPN	Japanese
+ALDA	Landscape Architecture
+LLIN	Linguistics
+AMGE	Managerial Economics
+AMCS	Marine and Coastal Sciences
+BMCS	Marine and Coastal Sciences
+LMCS	Marine and Coastal Sciences
+EMSE	Materials Science & Engr
+LMCO	Math & Scientific Computation
+LMOR	Math Analytics & Ops Rsch
+LMAT	Mathematics
+EMEC	Mechanical Engineering
+LMMS	Mediev & Early Modern Studies
+BMIC	Microbiology
+LMSA	Middle East/South Asia Studies
+LMUS	Music
+LNAS	Native American Studies
+LNTS	Natural Sciences
+BNPB	"Neurobiol, Physiol & Behavior"
+ANSC	Nutrition Science
+LPMC	Pharmaceutical Chemistry
+LPHI	Philosophy
+LPHY	Physics
+BPLB	Plant Biology
+APLT	Plant Sciences
+LPOL	Political Science
+LPPS	Political Science Publ Ser
+APLA	Pre-Landscape Architecture
+LPSC	Psychology
+LRST	Religious Studies
+LRUS	Russian
+LSTS	Science & Technology Studies
+LSOC	Sociology
+LSOR	Sociology-Organizational Stds
+LSPA	Spanish
+LSTA	Statistics
+ASAF	Sustainable Ag & Food Sys
+ASED	Sustainable Environmntl Design
+ATXC	Textiles & Clothing
+LTAD	Theatre and Dance
+LUFA	Undeclared-Fine Arts
+LUHU	Undeclared-Humanities
+BULS	Undeclared-Life Sciences
+LUPS	Undeclared-Physical Sciences
+LUSS	Undeclared-Social Sciences
+AEXP	Undeclared/Exploratory Program
+AVEN	Viticulture & Enology
+AWFC	"Wildlife,Fish&Conservation Bio"
