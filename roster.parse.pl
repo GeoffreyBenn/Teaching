@@ -6,7 +6,8 @@
 #to run the program call the script in the terminal and then specify the tab-delimited roster file to be parsed
 #this would look like: perl roster.parse.pl Bio.roster.txt
 
-#for complete instructions on how to use this script, please visit www.prospectiveprof.wordpress.com
+#for complete instructions on how to use this script, please visit www.prospectiveprof.wordpress.com or watch the video
+#at https://vimeo.com/108316346
 
 use strict; use warnings;
 
